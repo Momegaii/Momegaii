@@ -1,7 +1,5 @@
 # Stack : 
-# ![Static Badge](https://img.shields.io/badge/Backend%75Python%75Devoloper-social)
-# ![Static Badge](https://img.shields.io/badge/Machine_%75Learning_%75Engineer-black)
-# ![Static Badge](https://img.shields.io/badge/Front_%75Html%75_React.js-red)
+# ![Static Badge](https://img.shields.io/badge/Backend_%20Python_%20Devoloper-social)  ![Static Badge](https://img.shields.io/badge/Front_%20Html%20_React.js-red)  ![Static Badge](https://img.shields.io/badge/Machine_%20Learning_%20Engineer-black)
 
 # Mohammad s Almasarweh
 
